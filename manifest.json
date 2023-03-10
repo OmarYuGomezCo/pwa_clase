@@ -1,0 +1,27 @@
+{
+    "name":"Omar Yuriev Gómez Corral",
+    "short_name":"OYGC-PWA",
+    "description":"Aplicación PWA de materia Web Progresivas",
+    "background_color":"#FFF",
+    "theme_color":"#FB314E",
+    "orientation":"landscape",
+    "display":"standalone", 
+    "start_url":"./index.html?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons":[
+        {
+            "src": "./img/windows11/LargeTile.scale-100.png",
+            "sizes": "310x310"
+          },
+          {
+            "src": "./img/windows11/LargeTile.scale-125.png",
+            "sizes": "388x388"
+          },
+          {
+            "src": "./img/windows11/LargeTile.scale-150.png",
+            "sizes": "465x465"
+          }
+    ]
+    
+}
